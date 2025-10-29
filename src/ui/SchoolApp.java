@@ -12,7 +12,7 @@ public class SchoolApp {
      * en el trabajo. Se encarga de:
      * -Presentar el menú principal por consola
      * -Recibir y validar la entrada del usuario
-     * -Delegar operaciones al controlador 
+     * -Delegar operaciones al controlador
      *Relaciones con el modelo:
      *-input: Scanner para leer entrada por consola
      *-controller: instancia de SchoolController (modelo/servicio) que expone
